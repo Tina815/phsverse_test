@@ -26,17 +26,11 @@ remotes::install_github("Public-Health-Scotland/phsverse",
 ```
 
 Network security settings may prevent `remotes::install_github()` from
-working on RStudio desktop. If this is the case, `phsverse` can be
+working on RStudio desktop. If this is the case, you have to disconnect
+VPN first and then use the same code as downloading from RStudio server.
+Please note that unlike the other PHS GitHub packages, it can not be
 installed by downloading the [zip of the
-repository](https://github.com/Public-Health-Scotland/phsverse/archive/master.zip)
-and running the following code (replacing the section marked `<>`,
-including the arrows themselves):
-
-``` r
-remotes::install_local("<FILEPATH OF ZIPPED FILE>/phsverse-master.zip",
-  upgrade = "never"
-)
-```
+repository](https://github.com/Public-Health-Scotland/phsverse/archive/master.zip).
 
 ## Using phsverse
 
