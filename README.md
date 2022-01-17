@@ -38,7 +38,7 @@ Load `phsverse` using `library()`:
 
 ``` r
 library(phsverse)
-#> -- Attaching packages ----------------------------------- phsverse 0.0.0.9000 --
+#> -- Attaching packages ---------------------------------------- phsverse 0.1.0 --
 #> v phstemplates 0.9.6     v phsstyles    0.1.0
 #> v phsmethods   0.2.0
 ```
