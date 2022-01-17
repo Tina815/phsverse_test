@@ -6,7 +6,7 @@
 \title{\code{phsverse} package}
 \description{
 It was created with \href{https://github.com/jdtrat/metamakr}{metamakr} and
-combines three of our GitHub packages,
+combines our PHS packages on GitHub,
 \href{https://github.com/Public-Health-Scotland/phstemplates}{phstemplates},
 \href{https://github.com/Public-Health-Scotland/phsmethods}{phsmethods} and
 \href{https://github.com/Public-Health-Scotland/phsstyles}{phsstyles}.
