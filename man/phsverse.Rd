@@ -5,11 +5,7 @@
 \alias{phsverse}
 \title{\code{phsverse} package}
 \description{
-It was created with \href{https://github.com/jdtrat/metamakr}{metamakr} and
-combines our PHS packages on GitHub,
-\href{https://github.com/Public-Health-Scotland/phstemplates}{phstemplates},
-\href{https://github.com/Public-Health-Scotland/phsmethods}{phsmethods} and
-\href{https://github.com/Public-Health-Scotland/phsstyles}{phsstyles}.
+This package is designed to make it easy to install and load multiple packages developed in PHS in a single step.
 }
 \details{
 See the README on
